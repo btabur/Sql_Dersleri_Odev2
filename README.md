@@ -11,6 +11,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 ## Cevaplar
 
 1. soru
+
 SELECT * FROM film
 WHERE replacement_cost BETWEEN 12.99 AND 16.99 ;
 
